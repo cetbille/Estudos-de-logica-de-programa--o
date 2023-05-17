@@ -1,0 +1,11 @@
+lógica de programação é um modo de pensar na hr de fzr os scripts que são feitos para resolver problemas (códigos para resolver , problemas), o software tb é criado pra fazer a automação e otimizar processos.
+Existem processos p criar o software
+1 ciclo de desenvolvimento do software: 5 estágios 
+(a) idealização
+(b) expecificação de requisitos - ele tem q acabar assim, fzr isso e aql, limites, exatamente o q vai fzr
+(c) validação da solução - ver se a solução é viável, e pensar em formas de solucionar
+(d) desenvolvimento e testes - passar a solução pra código, e ver se presta (teste)
+(e) teste de implantação - entregar oo sistenma e ver se vai funfar por um período de testes (lembra o método cientifico)
+
+O que é o "desenvolvimento e teste"? É montar algoritmos p resolver o problema. 
+O  que é "algoritmo"? sequencia de instruções a serem seguidas (instruções detalhadas)

@@ -11,3 +11,8 @@ Existem processos p criar o software
 1b O  que é "algoritmo"? sequencia de instruções a serem seguidas (instruções detalhadas)
 Tem o método para fzr um bom algoritmo, o dos 5Q's - (1) quais são os dados de entrada (tempo q vai passar, sequência, quanto tempo entre cada um, quantas vezes se repete - coleta de dados) - (2) executar as informações do 1 (por em prática) - (3) quais as restrições do problema, definir os meus limites e o do código - (4) qual o resultado esperado - (5) qual a sequ~eencia de passos a adotar
 
+CONCEITOS ORBIGATÓRIOS DA PROGRAMAÇÃO
+(1) Variáveis - são todos os dados úteis que podem ser armazenados dentro de um código - p fzr estrtutura dde repetição ou ooutras funções
+(2) condicionais - condições para que alfo aconteca - if, else...
+(3) laços de repetição - determina quantas vezes a estrutura é repetida - geralmente usa das variáveis
+(4) coleções - armazena um conjunto de valores em um só lugar - conjunto de dados/variáveis

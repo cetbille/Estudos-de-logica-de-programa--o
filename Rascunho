@@ -10,3 +10,4 @@ Existem processos p criar o software
 1a O que é o "desenvolvimento e teste"? É montar algoritmos p resolver o problema. 
 1b O  que é "algoritmo"? sequencia de instruções a serem seguidas (instruções detalhadas)
 Tem o método para fzr um bom algoritmo, o dos 5Q's - (1) quais são os dados de entrada (tempo q vai passar, sequência, quanto tempo entre cada um, quantas vezes se repete - coleta de dados) - (2) executar as informações do 1 (por em prática) - (3) quais as restrições do problema, definir os meus limites e o do código - (4) qual o resultado esperado - (5) qual a sequ~eencia de passos a adotar
+

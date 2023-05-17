@@ -1,0 +1,7 @@
+Monte um algoritmo para a máquina resolver a equação 1 + 2x - 2 = x:
+
+    Minha resposta: 
+    Mova o "2x" da equação "1 + 2x - 2 = x" para o outro lado 
+    Use as regras básicas da matemática de adição e subtração para fazer o cálculo do "1 - 2 = x - 2x"
+    Com o resultado da equação "1 - 2 = x - 2x" multiplique os valores por -1
+    mostre quanto é x

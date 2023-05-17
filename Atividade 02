@@ -3,7 +3,7 @@ Monte um algoritmo que conte até um valor dado pelo usuário:
 x = 0
 pergunte v
 Se x < v{
-    some 1 + x
+    some x = 1 + x
     escreva x
     repita
 } caso contrário x = v {finaliza}
